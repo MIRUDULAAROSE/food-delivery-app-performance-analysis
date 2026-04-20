@@ -55,7 +55,9 @@ Business analyst case study on improving app performance
     7. Improved overall user experience
 
 # Markdown:
-    Problem Flow - <img width="132" height="392" alt="Problem Flow drawio" src="https://github.com/user-attachments/assets/615cc428-53fb-4fa0-8fdb-4b6790ccceab" />
-    Solution Flow - <img width="133" height="392" alt="Solution Flow drawio" src="https://github.com/user-attachments/assets/b4e412ab-23a5-4d61-8b55-af7a8be98b72" />
+    Problem Flow - <img width="1088" height="649" alt="Problem Flow drawio" src="https://github.com/user-attachments/assets/74a78947-3791-4c2e-b2e0-19db49b65b64" />
+
+    Solution Flow - <img width="992" height="634" alt="Solution Flow drawio" src="https://github.com/user-attachments/assets/425b77a2-23aa-4555-92dc-6daca171fb99" />
+
 
 
