@@ -31,7 +31,7 @@ Business analyst case study on improving app performance
       inform users about the improvements and rebuild customer trust.
 
 # User Story:
-   *As a food delivery app user, I want the app to run smoothly without crashes and load quickly so that I       can browse and place orders efficiently without delays.#
+    #As a food delivery app user, I want the app to run smoothly without crashes and load quickly so that I       can browse and place orders efficiently without delays.#
 
 # Acceptance Criteria:
     1. App should load within 2 seconds under normal network conditions.
