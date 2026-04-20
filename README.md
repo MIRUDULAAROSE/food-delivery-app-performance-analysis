@@ -53,3 +53,9 @@ Business analyst case study on improving app performance
     5. Regained customer trust
     6. Boost in revenue and overall business performance
     7. Improved overall user experience
+
+# Markdown:
+    Problem Flow - <img width="132" height="392" alt="Problem Flow drawio" src="https://github.com/user-attachments/assets/615cc428-53fb-4fa0-8fdb-4b6790ccceab" />
+    Solution Flow - <img width="133" height="392" alt="Solution Flow drawio" src="https://github.com/user-attachments/assets/b4e412ab-23a5-4d61-8b55-af7a8be98b72" />
+
+
