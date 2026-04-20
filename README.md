@@ -55,7 +55,7 @@ Business analyst case study on improving app performance
     7. Improved overall user experience
 
 # Markdown:
-    ## Process Flow - The following diagram illustrates the impact of app performance issues before and          after implementing the proposed solution
+    ## Process Flow - The following diagram illustrates the impact of app performance issues before and after implementing the proposed solution
 
 ### Before Improvement
 User opens app  
