@@ -30,6 +30,13 @@ Business analyst case study on improving app performance
     3. UI should not freeze or display broken elements during usage
     4. Issues identified in the latest version should be resolved before release
 
+# Stakeholders
+- Customers (end users)
+- Product Manager
+- Engineering Team
+- Business/Revenue Team
+- Marketing Team
+
 # Tools and Skills Used:
     1. SQL(for user behaviour analysis)
     2. Power BI (for data visualization)
@@ -44,6 +51,13 @@ Business analyst case study on improving app performance
     5. Regained customer trust
     6. Boost in revenue and overall business performance
     7. Improved overall user experience
+
+# Business Impact Summary
+    1. Improved application performance leading to faster load times and smoother user experience.
+    2. Reduced app crashes resulting in higher user satisfaction and trust.
+    3. Increased user retention due to stable and reliable app performance.
+    4. Higher engagement and longer session time within the application.
+    5. Positive impact on revenue due to improved customer experience and reduced drop-offs
 
 # Markdown:
     ## Process Flow - The following diagram illustrates the impact of app performance issues before and after implementing the proposed solution
