@@ -2,7 +2,7 @@
 Business analyst case study on improving app performance
 
 # Problem Statement:
-       Users are experiencing difficulties while ordering food through application due to slow load times, frequent carshes after recent updates and UX issues. This is leading to poor user experience and may result in increased user drop-outs,reduced customer satisfaction, revenue loss, reduced order volume, increased app uninstalls, loss of customer trust and a competitive disadvantage in the market. 
+       Users are experiencing difficulties while ordering food through application due to slow load times, frequent crashes after recent updates and UX issues. This is leading to poor user experience and may result in increased user drop-outs,reduced customer satisfaction, revenue loss, reduced order volume, increased app uninstalls, loss of customer trust and a competitive disadvantage in the market. 
 
 # Objective:
        The objective of this project is to enhance application performance and reduce crashes to create an user friendly environment that enables users to browse and place orders smoothly without delays and uninstallation.
@@ -46,8 +46,8 @@ Business analyst case study on improving app performance
 # Expected Outcome:
 1. Reduced App crash rate
 2. Improved app load time
-3. Increased user retension
-4. Higher order completion rate and re-engagment of active users
+3. Increased user retention
+4. Higher order completion rate and re-engagement of active users
 5. Regained customer trust
 6. Boost in revenue and overall business performance
 7. Improved overall user experience
