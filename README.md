@@ -1,8 +1,6 @@
 # improving-food-delivery-app-performance-analysis
 Business analyst case study on improving app performance
 
-This project analyzes food delivery performance to identify delays, customer satisfaction trends, and operational inefficiencies, with the goal of improving delivery speed and customer experience.
-
 # Problem Statement:
        Users are experiencing difficulties while ordering food through application due to slow load times, frequent carshes after recent updates and UX issues. This is leading to poor user experience and may result in increased user drop-outs,reduced customer satisfaction, revenue loss, reduced order volume, increased app uninstalls, loss of customer trust and a competitive disadvantage in the market. 
 
@@ -18,7 +16,7 @@ This project analyzes food delivery performance to identify delays, customer sat
        3. Customer Feedback Analysis: I analyzed customer feedback by reviewing user ratings, reviews and sentiment to understand common complaints and overall user experience with the application.
 
 # Root Cause Identification:
-      The primary root cause identified is poor application performance including long load times and frequent crashes after recent updates. These issue significantly disrupts the user experience and lead to increased user frustration and app uninstalls. Peak-hour congestion may be causing delivery delays, leading to increased cancellations and lower ratings
+      The primary root cause identified is poor application performance including long load times and frequent crashes after recent updates. These issue significantly disrupts the user experience and lead to increased user frustration and app uninstalls. 
 
 # Proposed Solution:
       The proposed solution is to identify the root causes of performance issues such as long load time and frequent crashes particularly those introduced in recent updates in Android/iOS. This includes releasing the patched version to improve app stability, optimizing system performance to reduce load time and enhancing the user interface to ensure smooth and uninterrupted user experience. Additionally a targeted campaign can be implemented to inform users about the improvements and rebuild customer trust.
@@ -45,12 +43,6 @@ This project analyzes food delivery performance to identify delays, customer sat
 3. Jira (for requirement tracking)
 4. Business Analysis (User Stories, Acceptance Criteria)
 
-# Key Insights:
-- Longer delivery times are linked to lower customer ratings
-- Certain regions/restaurants show consistent delays
-- High cancellation rates occur during peak hours
-- Faster deliveries correlate with better customer satisfaction
-
 # Expected Outcome:
 1. Reduced App crash rate
 2. Improved app load time
@@ -66,12 +58,6 @@ This project analyzes food delivery performance to identify delays, customer sat
 3. Increased user retention due to stable and reliable app performance.
 4. Higher engagement and longer session time within the application.
 5. Positive impact on revenue due to improved customer experience and reduced drop-offs
-
-# Business recommendations
-- Optimize delivery partner allocation during peak hours
-- Improve routing/logistics for high-delay areas
-- Partner with high-performing restaurants
-- Reduce delays to improve customer satisfaction and retention
 
 # Markdown:
     ## Process Flow - The following diagram illustrates the impact of app performance issues before and after implementing the proposed solution
